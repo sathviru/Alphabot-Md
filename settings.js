@@ -31,7 +31,7 @@ global.language = english //change indonesia to english if you don't understand 
 
 // Other
 // Other
-global.botname = "SR-Alphabot" //namabot kalian
+global.botname = "Queen-Alpha" //namabot kalian
 global.ownername = "Sathviru Rupasinghe " //nama kalian
 global.myweb = "https://google.com" //bebas asal jan hapus
 global.youtube = "https://youtube.com/" //bebas asal jan hapus
